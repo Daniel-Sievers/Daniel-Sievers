@@ -1,16 +1,19 @@
-## Hi there 👋
+# Daniel Sievers
 
-<!--
-**Daniel-Sievers/Daniel-Sievers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building a practical portfolio around Linux, server administration, information management, metadata, taxonomy and web documentation.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux terminal basics
+- Git and GitHub workflows
+- Documentation-driven project work
+- Information architecture and metadata systems
+
+## Projects
+
+- Self-hosted Essay Site on Ubuntu Server
+- Metadata and Taxonomy Portfolio Project (comming soon)
+
+## Portfolio Direction
+
+I use GitHub to document practical learning projects and make my technical development visible over time.
