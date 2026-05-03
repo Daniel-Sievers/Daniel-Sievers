@@ -11,7 +11,7 @@ I am building a practical portfolio around Linux, server administration, informa
 
 ## Projects
 
-- Self-hosted Essay Site on Ubuntu Server
+- Self-hosted Essay Site on Ubuntu Server (currently still private - comming soon)
 - Metadata and Taxonomy Portfolio Project (comming soon)
 
 ## Portfolio Direction
